@@ -1,1 +1,1 @@
-Just a home page for my browser
+Just a home page for my browser.
